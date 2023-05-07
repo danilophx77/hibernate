@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sesiones_1_2_3/ob-hibernate-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_25_26/ob-hibernate-proyecto/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_4_5_6/ob-hibernate-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_7_8_9/ob-hibernate-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_10_11_12/ob-hibernate-config/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_13_14_15/springboot-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_16_17_18/springboot-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_19_20_21/ob-hibernate-json/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_19_20_21/springboot-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/sesiones_22_23_24/ob-hibernate-insert-batch/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+</project>

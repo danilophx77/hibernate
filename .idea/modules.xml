@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hibernate-main.iml" filepath="$PROJECT_DIR$/.idea/hibernate-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_1_2_3/ob-hibernate-config/ob-hibernate-config.iml" filepath="$PROJECT_DIR$/sesiones_1_2_3/ob-hibernate-config/ob-hibernate-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_4_5_6/ob-hibernate-config/ob-hibernate-config (1).iml" filepath="$PROJECT_DIR$/sesiones_4_5_6/ob-hibernate-config/ob-hibernate-config (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_7_8_9/ob-hibernate-config/ob-hibernate-config (2).iml" filepath="$PROJECT_DIR$/sesiones_7_8_9/ob-hibernate-config/ob-hibernate-config (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_10_11_12/ob-hibernate-config/ob-hibernate-config (3).iml" filepath="$PROJECT_DIR$/sesiones_10_11_12/ob-hibernate-config/ob-hibernate-config (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_22_23_24/ob-hibernate-insert-batch/ob-hibernate-insert-batch.iml" filepath="$PROJECT_DIR$/sesiones_22_23_24/ob-hibernate-insert-batch/ob-hibernate-insert-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_19_20_21/ob-hibernate-json/ob-hibernate-json.iml" filepath="$PROJECT_DIR$/sesiones_19_20_21/ob-hibernate-json/ob-hibernate-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_25_26/ob-hibernate-proyecto/ob-hibernate-proyecto.iml" filepath="$PROJECT_DIR$/sesiones_25_26/ob-hibernate-proyecto/ob-hibernate-proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_13_14_15/springboot-hibernate/springboot-hibernate.iml" filepath="$PROJECT_DIR$/sesiones_13_14_15/springboot-hibernate/springboot-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_16_17_18/springboot-hibernate/springboot-hibernate (1).iml" filepath="$PROJECT_DIR$/sesiones_16_17_18/springboot-hibernate/springboot-hibernate (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesiones_19_20_21/springboot-hibernate/springboot-hibernate (2).iml" filepath="$PROJECT_DIR$/sesiones_19_20_21/springboot-hibernate/springboot-hibernate (2).iml" />
+    </modules>
+  </component>
+</project>
